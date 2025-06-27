@@ -56,7 +56,7 @@
 ## 🌐 Contato
 
 - 📫 alexandre.jacobino@gmail.com  
-- 🔗 [LinkedIn](www.linkedin.com/in/alexandre-henrique-19833a277) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alexandre-henrique-19833a277/) 
 
 ---
 
