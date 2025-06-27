@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Alexandre
 
-🚀 **Analista de Sistemas** | Brazil  
+🚀 **Analista de Sistemas**  
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Anhanguera (2024–2026)  
 💻 +3 anos de experiência com Node.js, React, Next.js, PHP e GraphQL  
-📍 Pirassununga – SP | 🇧🇷
+📍 Brazil
 
 ---
 
